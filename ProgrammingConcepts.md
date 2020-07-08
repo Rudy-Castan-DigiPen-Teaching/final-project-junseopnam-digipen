@@ -136,8 +136,8 @@ how?
 <code>
 this.B_life = 200;
 this.character_life = 100;
-<code>
-<pre>
+</code>
+</pre>  
 
 why?
 
