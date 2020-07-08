@@ -4,7 +4,8 @@ Shapes
 ------
 what?
 
-I used circle() to draw the character and Boss's eyes
+I used circle() to draw the character and Boss's eyes.
+This is the most important.
 
 How
 
@@ -51,3 +52,33 @@ Why?
 
 Because the noiseloop can make that eyes pretty enough
 
+color
+-----
+What?
+
+Used to make the color change when the mouse hovers over the rect of the option.
+
+How?
+<pre>
+<code>
+if (mouseX > this.x + 25 && mouseX < this.x + 75 && mouseY > this.y - this.plus * 3 - 15 && mouseY < this.y - this.plus * 3 + 15) {
+      this.color = 'red'
+      push()
+      fill(this.color);
+      rect(this.x + this.plus, this.y - this.plus * 3, this.width - this.plus, this.height)
+      image(Left1, this.x + this.plus, this.y - this.plus * 3, this.width, this.height)
+      pop()
+      if (mouseIsPressed) {
+        image(Left2, this.x + this.plus, this.y - this.plus * 3, this.width, this.height)
+        character_color = 'skyblue'
+      }
+    } else {
+      push()
+      this.color = 'yellow'
+      fill(this.color);
+      rect(this.x + this.plus, this.y - this.plus * 3, this.width - this.plus, this.height)
+      image(Left1, this.x + this.plus, this.y - this.plus * 3, this.width, this.height)
+      pop()
+    }
+</code>
+</pre>    
