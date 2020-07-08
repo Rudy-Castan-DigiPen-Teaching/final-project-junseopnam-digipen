@@ -69,17 +69,17 @@ For example, if a student had the login name fun.frank then the appropriate file
 
 ## Grading Rubric
 
-- [ ] Zip file has all the required files. **NOTE:** If we can't build and run your game then you will receive a **Zero**
-- [ ] The zip file submitted can be extracted and the sketch runs in Chrome with a local web server.
-- [ ] Published the project on GitHub.
-- [ ] The zip file contains a URL.txt that has the URL of your game.
-- [ ] Properly documented media files in a Media.md.
-- [ ] **All** Source Code has a proper header comment: Name, Project Name, Course Number, Term & Year. 
-- [ ] Properly named zip file.
-- [ ] Game Design Document
-- [ ] [**core**] Programming Concepts document
-- [ ] [**core**] Implemented your own game using `p5.js`
-- [ ] All requirements that are completed are checked off here by replacing the `[ ]` with `[x]`
+- [X] Zip file has all the required files. **NOTE:** If we can't build and run your game then you will receive a **Zero**
+- [X] The zip file submitted can be extracted and the sketch runs in Chrome with a local web server.
+- [X] Published the project on GitHub.
+- [X] The zip file contains a URL.txt that has the URL of your game.
+- [X] Properly documented media files in a Media.md.
+- [X] **All** Source Code has a proper header comment: Name, Project Name, Course Number, Term & Year. 
+- [X] Properly named zip file.
+- [X] Game Design Document
+- [X] [**core**] Programming Concepts document
+- [X] [**core**] Implemented your own game using `p5.js`
+- [X] All requirements that are completed are checked off here by replacing the `[ ]` with `[x]`
 
 
 Scores for Assignments will be given as the following:
