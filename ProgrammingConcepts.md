@@ -128,6 +128,7 @@ To change the color in options
 
 
 > what?
+
 Character and boss health
 
 how?
