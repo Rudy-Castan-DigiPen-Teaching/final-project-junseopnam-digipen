@@ -36,15 +36,17 @@ stonewall.png - Junseop Nam
 
 failscene.png - Junseop Nam
 
-story1.png - Junseop Nam
-
-story2.png - Junseop Nam
-
 ending.png - Junseop Nam
 
 waterball.png - Junseop Nam
 
 how_to_play.png - Junseop Nam
+
+> it created on drawing board
+
+story1.png - Junseop Nam
+
+story2.png - Junseop Nam
 
 > it created on 'sfxr'
 
