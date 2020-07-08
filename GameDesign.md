@@ -25,6 +25,6 @@ You can skip by pressing'r'.
 On the play screen, use'w','a','s', and'd' to move and attack using'up arrow'.
 If the boss's health is reduced by more than a certain amount, obstacles will increase.
 If you clear the boss, you can press'e' to move on to the next story.
-
+![mainmenu](https://user-images.githubusercontent.com/65064814/86880493-bef78800-c127-11ea-95f5-30e70c4f8c52.PNG)
 The second stage is also similar to the first stage.
 However, there are some restrictions on the player's movement.
