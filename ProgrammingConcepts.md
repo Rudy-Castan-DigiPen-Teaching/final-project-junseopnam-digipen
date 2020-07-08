@@ -142,3 +142,39 @@ this.character_life = 100;
 why?
 
 To judge whether the game is clear or failed
+
+Conditional Statements
+----------------------
+what?
+
+Player and obstacle hit decisions, Bullet and boss hit decisions.
+
+how?
+
+Player and obstacle hit decisions.
+<pre>
+<code>
+if (dist(this.Hero.x, this.Hero.y, this.ball1.Ball_x, this.ball1.Ball_y) <= 40) {
+        this.character_life = this.character_life - 1
+        hit_sound.play();
+      }
+</code>
+</pre> 
+
+Bullet and boss hit decisions.
+
+<pre>
+<code>
+if (round(this.Bullet[i].ypos) == 50 || round(this.Bullet[i].ypos) == 49 || round(this.Bullet[i].ypos) == 48 || round(this.Bullet[i].ypos) == 47 || round(this.Bullet[i].ypos) == 46) {
+        this.Bullet[i].hit = true;
+      }
+      if (this.Bullet[i].hit == true) {
+        this.B_life = this.B_life - 1
+        this.Bullet[i].hit = false
+      }
+</code>
+</pre> 
+
+why?
+
+Due to the hit judgment, the blood of characters and bosses is reduced.
