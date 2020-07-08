@@ -32,6 +32,7 @@ Pressing the play button starts the story scene.
 
 You can skip by pressing'r'.
 On the play screen, use'w','a','s', and'd' to move and attack using'up arrow'.
+You can see the bouncing energy ball, the shield blocking the bullet, and the stone falling from the random position continuously.
 
 ![play1](https://user-images.githubusercontent.com/65064814/86880501-c0c14b80-c127-11ea-8bea-6e43f0700364.PNG)
 
@@ -47,3 +48,5 @@ The second stage is also similar to the first stage.
 ![play4](https://user-images.githubusercontent.com/65064814/86880506-c28b0f00-c127-11ea-977c-6f4ffbd87364.PNG)
 
 However, there are some restrictions on the player's movement.
+(The movement of the y-coordinate is limited.)
+
