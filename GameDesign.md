@@ -15,6 +15,8 @@ How will people interact with the program and what will they see when doing so?
 The game starts from the main menu.
 The player can press the button using the mouse.
 
+![mainmenu](https://user-images.githubusercontent.com/65064814/86880493-bef78800-c127-11ea-95f5-30e70c4f8c52.PNG)
+
 In the options, you can use the mouse to control the color of the character, the size of the background music, and the gun sound.
 
 In Credits, you can see'Special Thanks and the creators of the photos and music.
