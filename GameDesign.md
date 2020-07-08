@@ -52,3 +52,4 @@ The second stage is also similar to the first stage.
 However, there are some restrictions on the player's movement.
 (The movement of the y-coordinate is limited.)
 
+The player interacts with the game with the mouse and the keys'w','a','s','d' and'up arrow'.
