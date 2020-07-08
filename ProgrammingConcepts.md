@@ -111,6 +111,8 @@ why?
 The object was moved using coordinate variables.
 
 
+
+
 what?
 
 Character color
@@ -125,6 +127,9 @@ let character_color = 'skyblue'
 why?
 
 To change the color in options
+
+
+
 
 what?
 Character and boss health
