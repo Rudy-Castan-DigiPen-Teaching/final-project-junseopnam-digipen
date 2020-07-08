@@ -261,3 +261,26 @@ class bullet {
 why?
 
 To make it easier to use it in other classes
+
+Arrays
+------
+what?
+
+Array to put bullets
+
+how?
+<pre>
+<code>
+this.Bullet = [];
+
+if (keyIsDown(UP_ARROW) && this.count == 0) {
+      this.Bullet.push(new bullet(this.Hero.x, this.Hero.y, 10))
+      laser_sound.play();
+      this.count = 7
+    }
+</code>
+</pre> 
+
+why?
+
+To make the bullet fire every time the player presses the 'up arrow'
