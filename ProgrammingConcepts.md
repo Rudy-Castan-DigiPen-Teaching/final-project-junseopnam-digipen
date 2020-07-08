@@ -91,7 +91,7 @@ Used to indicate where the player can click the mouse in the options.
 
 Variables
 ---------
-what?
+1. what?
 
 x,y coordinates of most objects
 
@@ -111,9 +111,7 @@ why?
 The object was moved using coordinate variables.
 
 
-
-
-what?
+2. what?
 
 Character color
 
@@ -129,9 +127,7 @@ why?
 To change the color in options
 
 
-
-
-what?
+3. what?
 Character and boss health
 
 how?
