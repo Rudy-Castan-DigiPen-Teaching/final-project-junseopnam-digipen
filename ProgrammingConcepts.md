@@ -195,3 +195,29 @@ for (var i = 0; i < this.Bullet.length; i++) {}
 why?
 
 Increases the size of the bullet array, allowing the bullet to continue firing.
+
+Functions
+---------
+what?
+
+Makes the stone fall.
+
+how?
+<pre>
+<code>
+function Draw_obstacle1() {
+  let obstacle1 = [];
+
+  let i = 0;
+  for (let i = 0; i < 150; i++) {
+    obstacle1[i] = new Obstacle1(this.x, this.y, this.r)
+  }
+  obstacle.show()
+  obstacle.fly()
+}
+</code>
+</pre> 
+
+why?
+
+To make it easier to draw a stone fall into another class
