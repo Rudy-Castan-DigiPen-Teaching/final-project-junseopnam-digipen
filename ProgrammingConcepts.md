@@ -95,7 +95,7 @@ what?
 
 x,y coordinates of most objects
 
-how (ex)
+how? (ex)
 <pre>
 <code>
 class Obstacle1 {
@@ -106,3 +106,37 @@ class Obstacle1 {
   }
 </code>
 </pre>  
+
+why?
+The object was moved using coordinate variables.
+
+
+what?
+
+Character color
+
+how?
+<pre>
+<code>
+let character_color = 'skyblue'
+</code>
+</pre>  
+
+why?
+
+To change the color in options
+
+what?
+Character and boss health
+
+how?
+<pre>
+<code>
+this.B_life = 200;
+this.character_life = 100;
+<code>
+<pre>
+
+why?
+
+To judge whether the game is clear or failed
