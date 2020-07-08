@@ -178,3 +178,20 @@ if (round(this.Bullet[i].ypos) == 50 || round(this.Bullet[i].ypos) == 49 || roun
 why?
 
 Due to the hit judgment, the blood of characters and bosses is reduced.
+
+Loops
+-----
+what?
+
+It increase the length of the bullet array
+
+how?
+<pre>
+<code>
+for (var i = 0; i < this.Bullet.length; i++) {}
+</code>
+</pre> 
+
+why?
+
+Increases the size of the bullet array, allowing the bullet to continue firing.
