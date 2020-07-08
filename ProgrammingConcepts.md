@@ -1,5 +1,7 @@
 Programming Concepts
 ====================
+Too many, so I'll shorten it down to a few examples of important use!
+
 Shapes
 ------
 what?
@@ -82,3 +84,25 @@ if (mouseX > this.x + 25 && mouseX < this.x + 75 && mouseY > this.y - this.plus 
     }
 </code>
 </pre>    
+
+Why?
+
+Used to indicate where the player can click the mouse in the options.
+
+Variables
+---------
+what?
+
+x,y coordinates of most objects
+
+how (ex)
+<pre>
+<code>
+class Obstacle1 {
+  constructor() {
+    this.x = random(30, 770);
+    this.y = 0;
+    this.r = 100;
+  }
+</code>
+</pre>  
