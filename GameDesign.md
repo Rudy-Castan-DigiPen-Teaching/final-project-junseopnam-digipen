@@ -2,12 +2,15 @@ Game Design Document
 ====================
 
 This game is to avoid monster's attack and attack monster in the dungeon.
+
 Player can be easily moved using w,a,s,d.
+
 Player can attack using the'up arrow'.
 
 Explain how your game idea works with the theme.
 ------------------------------------------------
 The theme'Googly Eyes' became the personality of the main character and the boss.
+
 This makes it easier and more comfortable for people to think of my game.
 
 How will people interact with the program and what will they see when doing so?
